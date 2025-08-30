@@ -1,0 +1,18 @@
+{
+    "id": 1,
+    "name": "Test project 1",
+    "displayName": "MITS example project",
+    "description": "Description",
+    "url": "https://github.com/gym-mits-test/project-1",
+    "skillDomainIds": [1],
+    "competition": "Competition",
+    "estTime": 4,
+    "authors": [
+      {
+        "name": "John doe",
+        "url": "https://example.com"
+      }
+    ],
+    "technologies": ["HTML", "CSS", "JavaScript"],
+    "tags": ["frontend", "design implementation", "design"]
+  },
