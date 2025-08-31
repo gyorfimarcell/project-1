@@ -14,5 +14,6 @@
       }
     ],
     "technologies": ["HTML", "CSS", "JavaScript"],
-    "tags": ["frontend", "design implementation", "design"]
+    "tags": ["frontend", "design implementation", "design"],
+    "status": "draft"
 }
