@@ -1,7 +1,7 @@
 {
     "id": 1,
     "name": "Test project 1",
-    "displayName": "MITS example project EDIT 2",
+    "displayName": "MITS example project",
     "description": "Description",
     "url": "https://github.com/gym-mits-test/project-1",
     "skillDomainIds": [1],
