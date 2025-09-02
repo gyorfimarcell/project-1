@@ -11,8 +11,7 @@
   "estTime": "asd",
   "authors": [
     {
-      "name": "John doe",
-      "url": "https://example.com"
+      "name": "John doe"
     }
   ],
   "technologies": [
@@ -23,8 +22,9 @@
   "tags": [
     "frontend",
     "design implementation",
-    "design"
+    "design",
+    "frontend"
   ],
-  "status": "published",
+  "status": "invalid",
   "createdAt": "2025-09-02"
 }
