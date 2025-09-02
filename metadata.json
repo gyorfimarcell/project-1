@@ -1,11 +1,11 @@
 {
-  "id": 1,
+  "id": 2,
   "name": "Test project 1",
   "displayName": "MITS example project asdsad",
   "description": "Description",
   "url": "https://github.com/gym-mits-test/project-1",
   "skillDomainIds": [
-    1
+    10
   ],
   "competition": "Competition",
   "estTime": 4,
@@ -23,7 +23,8 @@
   "tags": [
     "frontend",
     "design implementation",
-    "design"
+    "design",
+    "HTML"
   ],
   "status": "published",
   "createdAt": "2025-09-02"
