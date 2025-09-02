@@ -8,18 +8,23 @@
     1
   ],
   "competition": "Competition",
-  "estTime": "asd",
+  "estTime": 4,
+  "authors": [
+    {
+      "name": "John doe",
+      "url": "https://example.com"
+    }
+  ],
   "technologies": [
     "HTML",
     "CSS",
-    "JavaScript",
-    "HTML"
+    "JavaScript"
   ],
   "tags": [
     "frontend",
     "design implementation",
     "design"
   ],
-  "status": "asdasd",
-  "createdAt": "2025-09-00"
+  "status": "published",
+  "createdAt": "2025-09-02"
 }
