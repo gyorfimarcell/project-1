@@ -3,12 +3,12 @@
   "name": "Test project 1",
   "displayName": "MITS example project asdsad",
   "description": "Description",
-  "url": "https://github.com/gym-mits-test/project-1",
+  "url": "https://github.com/gym-mits-test/project-2",
   "skillDomainIds": [
     1
   ],
   "competition": "Competition",
-  "estTime": "asd",
+  "estTime": "3",
   "authors": [
     {
       "name": "John doe"
@@ -22,9 +22,8 @@
   "tags": [
     "frontend",
     "design implementation",
-    "design",
-    "frontend"
+    "design"
   ],
-  "status": "invalid",
+  "status": "published",
   "createdAt": "2025-09-02"
 }
