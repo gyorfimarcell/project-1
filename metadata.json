@@ -1,13 +1,11 @@
 {
-  "id": 2,
-  "name": "Test project 2",
+  "id": 1,
+  "name": "Test project 1",
   "displayName": "MITS example project asdsad",
   "description": "Description",
-  "url": "https://github.com/gym-mits-test/project-asdasd",
+  "url": "https://github.com/gym-mits-test/project-1",
   "skillDomainIds": [
-    1,
-    9,
-    10
+    1
   ],
   "competition": "Competition",
   "estTime": 3,
