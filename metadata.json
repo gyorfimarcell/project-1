@@ -8,10 +8,11 @@
     1
   ],
   "competition": "Competition",
-  "estTime": "3",
+  "estTime": 3,
   "authors": [
     {
-      "name": "John doe"
+      "name": "John doe",
+      "url": "https://example.com"
     }
   ],
   "technologies": [
