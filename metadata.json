@@ -1,12 +1,12 @@
 {
   "name": "Test project 1",
   "displayName": "MITS example project asdsad",
-  "description": "Description",
-  "url": "https://github.com/gyorfimarcell/project-1",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu lectus accumsan, hendrerit urna a, rutrum lorem. Morbi convallis facilisis enim, accumsan interdum turpis vestibulum a. Proin et mauris ullamcorper, scelerisque erat in, porta erat. Vestibulum imperdiet placerat elit sed ultrices.",
+  "url": "https://github.com/gym-mits-test/project-1",
   "skillDomainIds": [
     1
   ],
-  "competition": "Competition",
+  "competition": "SamsungSkills Invitational Friendly Challenge 2026",
   "estTime": 3,
   "authors": [
     {
@@ -23,7 +23,5 @@
     "frontend",
     "design implementation",
     "design"
-  ],
-  "status": "published",
-  "publishedAt": "2025-09-02"
+  ]
 }
